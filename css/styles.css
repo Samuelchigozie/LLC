@@ -1,0 +1,12 @@
+hr{
+    border-width: 2px;
+    border-color: black;
+}
+.bar {
+    font-size: xx-large;
+    font-weight: bold;
+}
+.navbar {
+    font-size: medium;
+    font-weight: bold;
+}
